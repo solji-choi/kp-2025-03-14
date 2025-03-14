@@ -1,4 +1,4 @@
-package com.ll.kp_2025_03_14
+package com.back
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
